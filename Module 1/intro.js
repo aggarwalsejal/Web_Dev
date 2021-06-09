@@ -57,11 +57,11 @@ movies.push("ENDGAME");
 movies.unshift("THe FIrst Avenger"); // append at the start of the array
 // console.log(movies);
 
-movies.splice(2, 1);
+//console.log(movies.splice(2, 2));
 
-// movies[100] = "find me";
+movies[100] = "find me";
 
-// console.log(movies);
+console.log(movies);
 //
 
 // let moveis = [] // new Array();
