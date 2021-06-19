@@ -1,4 +1,4 @@
 let importedData = require("./b.js");
 
 
-importedData() 
+console.log(importedData);
